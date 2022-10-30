@@ -287,3 +287,4 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,macos,python
 
 data
+.vscode/tasks.json
