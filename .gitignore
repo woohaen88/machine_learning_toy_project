@@ -287,7 +287,4 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,macos,python
 
 data
-pytorch-lightning-example/cifar-10-batches-py
-pytorch-lightning-example/logs
-pytorch-lightning-example/cifar-10-python.tar.gz
 .vscode/tasks.json
